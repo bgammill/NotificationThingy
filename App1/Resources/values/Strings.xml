@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Notification Thingy</string>
+  <string name="channel_id">666</string>
+  <string name="channel_name">Local Notifications</string>
+  <string name="channel_description">The count from MainActivity.</string>
+  <string name="topic">debug/test</string>
+  <string name="manifest_url">https://gist.githubusercontent.com/bgammill/aa5f115284fd042b39d3e88fe46095fe/raw/manifest.json</string>
+</resources>
